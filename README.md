@@ -1,6 +1,6 @@
 # BoutiqueWebApp
 
-This is a boutique web application named "zarro". On this website, it shows a little introduction, the designs that they made, and the contact section.
+This is a boutique application named "zarro". On this website, it shows a little introduction, the designs that they made, and the contact section.
 
 ## Tech Stack Used
 
